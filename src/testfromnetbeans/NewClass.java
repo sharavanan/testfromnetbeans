@@ -10,4 +10,8 @@ package testfromnetbeans;
  */
 public class NewClass {
     
+    public void test(){
+        System.out.println("my test");
+    }
+    
 }
