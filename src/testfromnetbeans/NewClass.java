@@ -15,12 +15,14 @@ public class NewClass {
     }
     
     public void test(){
-        System.out.println("my test");
-        
-        
+        System.out.println("my test");      
     }
+        
     public void test3(){
             System.out.println(" test 3");
         }
+    public void test4(){
+        System.out.println("from sharan");
+    }
     
 }
