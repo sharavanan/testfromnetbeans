@@ -9,11 +9,8 @@ package testfromnetbeans;
  * @author logicresearch
  */
 public class NewClass {
+    public void test2(){
     
-    public void test(){
-        System.out.println("my test");
-        
-        
+        System.out.println("  test 2");
     }
-    
 }
