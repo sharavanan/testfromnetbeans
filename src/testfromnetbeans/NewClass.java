@@ -13,4 +13,11 @@ public class NewClass {
     
         System.out.println("  test 2");
     }
+    
+    public void test(){
+        System.out.println("my test");
+        
+        
+    }
+    
 }
